@@ -3,8 +3,10 @@
 A ROS 2 Jazzy-based autonomous mobile robot project implementing manual control, autonomous navigation, SLAM-based exploration, obstacle tracking, and Large Language Model (LLM) based natural language navigation.
 
 ---
-**Name:** Tathagata Roy
-**Roll No.:** 25B3954
+
+**Name:** Tathagata Roy <br>
+**Roll No.:** 25B3954 <br>
+
 ---
 
 ## Features
